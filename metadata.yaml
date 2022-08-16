@@ -1,0 +1,43 @@
+_repo: The-trial-of-Emile-Zola-containing-M-Zola-s-letter-to-President-Faure-relating-to-the-Dreyfus__68561
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Zola, Émile
+    aliases:
+    - Zola, Émile Édouard Charles Antoine
+    - Zola, Emile
+    birthdate: 1840
+    deathdate: 1902
+    gutenberg_agent_id: '528'
+    url: http://www.gutenberg.org/2009/agents/528
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Émile_Zola
+    - https://fr.wikipedia.org/wiki/%C3%89mile_Zola
+description: Translation in part of Le procès Zola devant la Cour d'Assises de la
+  Seine (7 Fevrier - 23 Fevrier 1898), and of J'accuse.
+gutenberg_issued: '2022-07-18'
+identifiers:
+  gutenberg: '68561'
+  lccn: '2015374243'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=hvd.32044103189775&view=1up&seq=5andhttps://babel.hathitrust.org/cgi/pt?id=coo1.ark:/13960/t2k65249j&view=1up&seq=5
+pgterms:marc905: 20200621140254zola
+pgterms:marc906: '1898'
+pgterms:marc907: US
+production_note: Emmanuel Ackerman, Thomas Frost and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: United States :Benj. R. Tucker,1898.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dreyfus, Alfred, 1859-1935'
+- !lcsh 'Zola, Émile, 1840-1902 -- Trials, litigation, etc.'
+- !lcsh 'Trials (Seditious libel) -- France -- History -- 19th century'
+- !lcc 'KJ'
+- GITenberg
+title: 'The trial of Emile Zola: containing M. Zola''s letter to President Faure relating
+  to the Dreyfus case, and a full report of the fifteen days'' proceedings in the
+  Assize Court of the Seine, including testimony of witnesses and speeches of counsel'
+url: http://www.gutenberg.org/ebooks/68561
