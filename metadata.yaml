@@ -1,5 +1,8 @@
 _repo: The-trial-of-Emile-Zola-containing-M-Zola-s-letter-to-President-Faure-relating-to-the-Dreyfus__68561
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68561-h/images/cover.jpg
 creator:
   author:
     agent_name: Zola, Émile
@@ -15,6 +18,8 @@ creator:
     - https://fr.wikipedia.org/wiki/%C3%89mile_Zola
 description: Translation in part of Le procès Zola devant la Cour d'Assises de la
   Seine (7 Fevrier - 23 Fevrier 1898), and of J'accuse.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68561#The-trial-of-Emile-Zola-containing-M-Zola-s-letter-to-President-Faure-relating-to-the-Dreyfus_
 gutenberg_issued: '2022-07-18'
 identifiers:
   gutenberg: '68561'
